@@ -1,5 +1,4 @@
 
-// ATHANASIOS ROUDIS AM 5098
 import java.util.*;
 
 class ComputerPlayer {
